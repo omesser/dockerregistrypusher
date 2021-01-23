@@ -1,0 +1,6 @@
+requests~=2.25
+urllib3~=1.26
+simplejson~=3.17
+colorama~=0.4
+pygments~=2.7
+regex~=2020.11
